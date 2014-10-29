@@ -106,7 +106,9 @@ you desire.
 The most common usage of this project is to serve as an API used by
 the project [Mario](https://github.com/18F/Mario]) but you of course may use it as you see fit.
 
-## Public Domain
+To test, you can run "python gsa-advantage-py".
+
+### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
